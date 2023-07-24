@@ -1,0 +1,17 @@
+h1 {
+  font-weight: 1000;
+  margin: 30px 30px 30px 30px;
+  font-size: 25px;
+  color: rgb(198, 218, 26);
+}
+.title {
+  text-align: center;
+  font-size: large;
+}
+span {
+  color: brown;
+  text-decoration: dotted;
+}
+a {
+  color: black;
+}
